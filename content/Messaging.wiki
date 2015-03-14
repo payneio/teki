@@ -1,0 +1,15 @@
+= Technology Class: Messaging =
+
+* ActiveMQ
+* RabbitMQ
+* AMQP
+* MQTT
+* JMS
+* Email (IMAP/POP)
+* UDP
+* TCP
+* HTML
+
+* AVRO
+* Protobuff
+ 

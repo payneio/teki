@@ -1,0 +1,14 @@
+= Class of Technology =
+
+* [[Messaging]]
+* Queues
+ 
+* [[Logs]]
+* [[Relational Database]]
+* [[Column-Family Store]]
+* [[Key-Value Store]]
+* [[Document Store]]
+* [[Object Database]]
+* [[Graph Database]]
+
+
